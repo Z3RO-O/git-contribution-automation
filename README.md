@@ -10,7 +10,7 @@ Simple and easy to use for educational purposes
 #### Getting Started
 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/Z3RO-O/git-contribution-automation
 cd repo-name
 ```
 2. Run the Script: Ensure you have the necessary permissions:
